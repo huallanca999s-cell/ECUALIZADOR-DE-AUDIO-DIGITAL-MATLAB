@@ -166,7 +166,7 @@ El funcionamiento general del proyecto puede resumirse en las siguientes etapas:
 5. Cada banda recibe una ganancia determinada.
 6. Las señales procesadas son combinadas.
 7. Se obtiene la señal de audio ecualizada.
-8. La señal resultante es enviada al `Speaker`.
+8. La señal resultante es enviada al `Audio Device Writer`.
 9. El usuario puede modificar las ganancias mediante la interfaz desarrollada en App Designer.
 10. Los cambios realizados desde la interfaz permiten controlar el comportamiento del ecualizador en Simulink.
 
@@ -225,6 +225,7 @@ Para ejecutar el proyecto se requiere:
 El sistema permite modificar el contenido espectral de una señal de audio mediante el ajuste de las ganancias de las 15 bandas del ecualizador.
 
 La integración entre Simulink y App Designer permite realizar este ajuste desde una interfaz gráfica, haciendo que el control de los parámetros sea más directo que la modificación manual de los bloques del modelo.
+
   <img src="CAPTURAS/ecualizacion.jpg" alt="Diseño de Interfaz grafica" width="800">
 </p>
 
@@ -258,8 +259,6 @@ Este proyecto se publica con fines académicos y de portafolio.
 ---
 
 ## Autor
-
-**Erick Huallanca**
 
 **Autor:** Erick Isaias Huallanca Perez  
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/erick-isaias-huallanca-perez-925b7632b) | [huallanca999s@gmail.com](mailto:huallanca999s@gmail.com)
