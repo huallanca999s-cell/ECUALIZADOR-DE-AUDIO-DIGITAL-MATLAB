@@ -250,7 +250,7 @@ Durante el desarrollo del proyecto se aplicaron conceptos relacionados con:
 
 ## Contexto académico
 
-Este proyecto fue desarrollado como parte del aprendizaje y aplicación de conocimientos de **Ingeniería Electrónica**, particularmente en el área de **Procesamiento Digital de Señales**.
+Este proyecto fue desarrollado como parte del aprendizaje y aplicación de conocimientos de **Ingeniería Electrónica**, particularmente en el área de **Procesamiento Digital de Señales**. Inicialmente la interfaz de control fue realizada en Matlab GUI , sin embargo, por temas de compatibilidad con versiones posteriores fue necesario migrar el código a APP Designer. 
 
 El proyecto integra conceptos teóricos de procesamiento de señales con herramientas de simulación y desarrollo de interfaces gráficas, permitiendo aplicar estos conocimientos en un sistema funcional de procesamiento de audio.
 
